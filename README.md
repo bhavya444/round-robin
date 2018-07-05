@@ -1,1 +1,1 @@
-# round-robin Scheduling in C
+# Round-Robin and SRTF Scheduling Program in C
